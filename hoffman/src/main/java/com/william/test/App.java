@@ -1,4 +1,4 @@
-package william.hoffman;
+package com.william.test;
 
 /**
  * Hello world!
